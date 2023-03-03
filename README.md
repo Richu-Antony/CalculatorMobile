@@ -48,16 +48,16 @@
         <img src="https://komarev.com/ghpvc/?username=Richu-Antony">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/last-commit/Richu-Antony/Android_Programmes" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/last-commit/Richu-Antony/Calculator_App" alt="GitHub Badge">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/languages/top/Richu-Antony/Android_Programmes" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/languages/top/Richu-Antony/Calculator_App" alt="GitHub Badge">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/repo-size/Richu-Antony/Android_Programmes" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/repo-size/Richu-Antony/Calculator_App" alt="GitHub Badge">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/github/stars/Richu-Antony/Android_Programmes" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/stars/Richu-Antony/Calculator_App" alt="GitHub Badge">
     </a>
     <a href="#">
         <img src="https://img.shields.io/github/followers/Richu-Antony?label=Followers" alt="GitHub Badge">
@@ -81,7 +81,7 @@ To clone and run this application, you'll need [Android Studio](https://develope
 ```bash
 Step 1: 
 # Clone this repository
-$ https://github.com/Richu-Antony/Android_Programmes.git
+$ https://github.com/Richu-Antony/Calculator_App.git
 
 Step 2: 
 # Paste the folder to "Android Studio" folder
@@ -103,97 +103,17 @@ Selected Project
 # 🌌 Screenshots
 <div style="text-align: center;">
     <img
-    src="Screenshots/ActivityLifeCycle.png"
-    alt="Alt text"
-    title="Optional title"
-    style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
-    <img
     src="Screenshots/Calculator.png"
     alt="Alt text"
     title="Optional title"
     style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
     <img
-    src="Screenshots/Factorial1.png"
+    src="Screenshots/Calculator1.png"
     alt="Alt text"
     title="Optional title"
     style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
     <img
-    src="Screenshots/Factorial2.png"
-    alt="Alt text"
-    title="Optional title"
-    style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
-    <img
-    src="Screenshots/GridAdapterAlert1.png"
-    alt="Alt text"
-    title="Optional title"
-    style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
-    <img
-    src="Screenshots/GridAdapterAlert2.png"
-    alt="Alt text"
-    title="Optional title"
-    style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
-    <img
-    src="Screenshots/ListviewImplictIntent.png"
-    alt="Alt text"
-    title="Optional title"
-    style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
-    <img
-    src="Screenshots/Login1.png"
-    alt="Alt text"
-    title="Optional title"
-    style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
-    <img
-    src="Screenshots/Login2.png"
-    alt="Alt text"
-    title="Optional title"
-    style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
-    <img
-    src="Screenshots/MultiplicationTable1.png"
-    alt="Alt text"
-    title="Optional title"
-    style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
-    <img
-    src="Screenshots/MultiplicationTable2.png"
-    alt="Alt text"
-    title="Optional title"
-    style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
-    <img
-    src="Screenshots/SharedPreferences1.png"
-    alt="Alt text"
-    title="Optional title"
-    style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
-    <img
-    src="Screenshots/SharedPreferences2.png"
-    alt="Alt text"
-    title="Optional title"
-    style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
-    <img
-    src="Screenshots/SimpleCalculator.png"
-    alt="Alt text"
-    title="Optional title"
-    style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
-    <img
-    src="Screenshots/Spinner.png"
-    alt="Alt text"
-    title="Optional title"
-    style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
-    <img
-    src="Screenshots/SQLite1.png"
-    alt="Alt text"
-    title="Optional title"
-    style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
-    <img
-    src="Screenshots/SQLite2.png"
-    alt="Alt text"
-    title="Optional title"
-    style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
-    <img
-    src="Screenshots/SQLite3.png"
-    alt="Alt text"
-    title="Optional title"
-    style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
-    <img
-    src="Screenshots/SQLite4.png"
+    src="Screenshots/Calculator2.png"
     alt="Alt text"
     title="Optional title"
     style="display: inline-block; margin: 0 auto; max-width: 500px">&nbsp;
