@@ -85,7 +85,7 @@ $ https://github.com/Richu-Antony/Calculator_App.git
 
 Step 2: 
 # Paste the folder to "Android Studio" folder
-Android_Programmes
+Calculator
 
 Step 3:
 # Start Android Studio
