@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center"> Calculator </h1><br>
+<h1 align="center"> Calculator - App </h1><br>
 
 
 
@@ -69,7 +69,7 @@
 <!-- About -->
 #
 # 🌞About
-<p align="justify">The process of creating mobile applications for gadgets with the Android operating system is known as Android programming. In order to construct applications that can interface with the hardware and software components of the device, such the camera, GPS, and touch screen, programming languages like Java or Kotlin are used. To speed up the app creation process and guarantee compatibility with a variety of Android devices, Android programming also entails the use of several development tools, frameworks, and libraries. Due to the extensive use of Android devices and the significant demand for mobile applications, Android development has grown increasingly popular.<br><br>"Programming is a creative outlet and art form. It is the procedure for bringing concepts to life and building something from scratch. The opportunities are infinite if you have the correct knowledge and equipment."</p>
+<p align="justify">A calculating device An Android app is a piece of software that allows you to perform mathematical calculations on your Android device. It enables users to enter mathematical equations using a virtual keyboard and receive immediate results. Basic arithmetic operations such as addition, subtraction, multiplication, and division can be performed by calculator apps. Android calculator apps written in Kotlin can take advantage of the Android operating system's built-in calculator functionality. A history of previous calculations, the ability to save and recall calculations, and support for multiple themes and languages are all features that many calculator apps provide. Calculator apps have become an indispensable tool for many Android users, allowing them to perform calculations quickly and easily on the go without the need for a physical calculator.<br><br>"Programming is a creative outlet and art form. It is the procedure for bringing concepts to life and building something from scratch. The opportunities are infinite if you have the correct knowledge and equipment."</p>
 
 
 
