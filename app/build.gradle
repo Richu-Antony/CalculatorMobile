@@ -23,6 +23,7 @@ android {
         versionName "4.03.2023"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        signingConfig signingConfigs.debug
     }
 
     buildTypes {

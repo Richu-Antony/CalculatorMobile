@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center"> Android Programmes </h1><br>
+<h1 align="center"> Calculator </h1><br>
 
 
 
