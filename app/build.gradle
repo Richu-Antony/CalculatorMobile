@@ -7,9 +7,9 @@ android {
     signingConfigs {
         release {
             storeFile file('C:\\Users\\richu\\Documents\\Android KeyStore\\KeyStore.jks')
-            storePassword 'rio332019'
+            storePassword '123456789'
             keyAlias 'Key0'
-            keyPassword 'rio332019'
+            keyPassword '123456789'
         }
     }
     namespace 'com.rica.calculator'
@@ -20,7 +20,7 @@ android {
         minSdk 23
         targetSdk 33
         versionCode 1
-        versionName "12.02.2023"
+        versionName "4.03.2023"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
